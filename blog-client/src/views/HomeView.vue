@@ -12,6 +12,7 @@
         </div>
     </div>
 </template>
+
 <script>
 import {onMounted} from 'vue';
 import usePosts from "../api/usePosts";
